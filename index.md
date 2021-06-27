@@ -50,10 +50,10 @@ sections:
         image_position: left
         actions: []
       - title: Use seus dados onde quiser
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Exporte os dados coletados quantas vezes quiser para o formato CSV e
+          faça análises em usando SPSS, STATA, Excel, linguagens de programação,
+          modelos de IA (inteligência artificial) ou como quiser
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
