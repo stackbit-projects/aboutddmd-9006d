@@ -45,7 +45,7 @@ sections:
           scores dos questionários de acordo com o delineamento clínico do seu
           banco de dados
         align: left
-        image: images/graficos.png
+        image: images/graficos2.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
