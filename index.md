@@ -30,7 +30,7 @@ sections:
           ##### Crie seu banco de dados e tenha embasamento metodológico para
           explicar e auxiliar nos seus artigos científicos
         align: left
-        image: images/feature.svg
+        image: images/wonderful-celery.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
