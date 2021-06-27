@@ -55,7 +55,7 @@ sections:
         image_position: right
         actions: []
   - type: cta_section
-    title: This Is A CTA
+    title: Crie e controle seu banco de dados
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
