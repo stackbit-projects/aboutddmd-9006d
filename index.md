@@ -40,10 +40,9 @@ sections:
             style: secondary
             new_window: true
       - title: Dashboard em tempo real
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          ##### Veja gráficos em tempo real com cálculos automáticos de score
+          dos questionários de acordo com o delineamento clínico do seu projeto.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
