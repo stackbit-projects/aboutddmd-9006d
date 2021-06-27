@@ -35,7 +35,8 @@ sections:
         image_position: right
         actions:
           - label: Saiba mais
-            url: /features
+            url: >-
+              https://www.sciencedirect.com/science/article/abs/pii/S1386505619310469
             style: secondary
       - title: Feature 2
         content: >-
