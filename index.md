@@ -45,7 +45,7 @@ sections:
           scores dos questionários de acordo com o delineamento clínico do seu
           projeto.
         align: left
-        image: images/feature.svg
+        image: images/graficos.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
