@@ -39,7 +39,7 @@ sections:
               https://www.sciencedirect.com/science/article/abs/pii/S1386505619310469
             style: secondary
             new_window: true
-      - title: Feature 2
+      - title: Dashboard em tempo real
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
