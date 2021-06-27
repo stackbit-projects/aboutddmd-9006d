@@ -41,9 +41,9 @@ sections:
             new_window: true
       - title: Dashboard em tempo real
         content: >
-          ##### Gráficos de acompanhamento dos pacientes em tempo real com
-          scores dos questionários de acordo com o delineamento clínico do seu
-          banco de dados
+          Gráficos de acompanhamento dos pacientes em tempo real com scores dos
+          questionários de acordo com o delineamento clínico do seu banco de
+          dados
         align: left
         image: images/graficos2.png
         image_alt: Feature 2 placeholder image
