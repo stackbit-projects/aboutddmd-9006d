@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Colete e gerencie um banco de dados da saúde
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Escolha o que é importante armazenar em seu banco de dados
     actions:
       - label: Learn More
         url: /features
