@@ -43,7 +43,7 @@ sections:
         content: >
           ##### Gráficos de acompanhamento dos pacientes em tempo real com
           scores dos questionários de acordo com o delineamento clínico do seu
-          projeto.
+          banco de dados
         align: left
         image: images/graficos.png
         image_alt: Feature 2 placeholder image
