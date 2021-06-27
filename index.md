@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/knowledgeable-kale.png
+    image: images/HomePlataforma.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
