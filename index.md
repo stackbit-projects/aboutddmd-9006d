@@ -27,8 +27,8 @@ sections:
     features:
       - title: Feature 1
         content: >
-          # Crie seu banco de dados e tenha embasamento metodológico para seus
-          trabalhos científicos
+          ##### Crie seu banco de dados e tenha embasamento metodológico para
+          seus trabalhos científicos
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
