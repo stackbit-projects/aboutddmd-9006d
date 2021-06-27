@@ -57,8 +57,8 @@ sections:
   - type: cta_section
     title: Crie e controle seu banco de dados
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Acesse seu banco de dados onde estiver pelo navegador do computador ou por
+      celular e tablet.
     actions: []
     has_background: true
     background_color: gray
