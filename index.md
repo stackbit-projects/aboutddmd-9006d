@@ -25,7 +25,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Feature 1
+      - title: Metodologia publicada
         content: >
           ##### Crie seu banco de dados e tenha embasamento metodológico para
           explicar e auxiliar nos seus artigos científicos
