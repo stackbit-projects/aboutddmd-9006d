@@ -41,8 +41,9 @@ sections:
             new_window: true
       - title: Dashboard em tempo real
         content: >
-          ##### Veja gráficos em tempo real com cálculos automáticos de score
-          dos questionários de acordo com o delineamento clínico do seu projeto.
+          ##### Gráficos de acompanhamento dos pacientes em tempo real com
+          scores dos questionários de acordo com o delineamento clínico do seu
+          projeto.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
