@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Colete e gerencie um banco de dados da saúde
-    subtitle: "Escolha o que é importante armazenar em seu banco de dados.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Colete quantos questionários e variáveis precisar, para quantos pacientes precisar."
+    subtitle: "Escolha o que é importante armazenar em seu banco de dados.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Colete quantos questionários e variáveis precisar, para o número de pacientes e casos que necessitar."
     actions:
       - label: Learn More
         url: /features
