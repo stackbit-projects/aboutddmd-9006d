@@ -44,15 +44,6 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
-      - title: Use seus dados onde quiser
-        content: >
-          Exporte os dados coletados quantas vezes quiser para o formato CSV e
-          faça análises em usando SPSS, STATA, Excel, linguagens de programação,
-          modelos de IA (inteligência artificial) ou como quiser
-        align: left
-        image_alt: Feature 3 placeholder image
-        image_position: right
-        actions: []
   - type: cta_section
     title: Crie e controle seu banco de dados
     subtitle: >-
