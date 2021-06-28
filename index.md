@@ -37,15 +37,6 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
-  - type: cta_section
-    title: Crie e controle seu banco de dados
-    subtitle: >-
-      Acesse seu banco de dados onde estiver pelo navegador do computador ou por
-      celular e tablet. Trabalhe com outros centros de pesquisa, hospitais e
-      universidades no mesmo banco de dados e de forma separada - se preferir
-    actions: []
-    has_background: true
-    background_color: gray
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
