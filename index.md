@@ -24,7 +24,6 @@ sections:
           e referenciar seu banco de dados e a metodologia de coleta das
           informações em seus artigos científicos
         align: left
-        image: images/wonderful-celery.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
