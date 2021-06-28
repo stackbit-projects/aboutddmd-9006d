@@ -16,7 +16,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Alguns recursos
+    title: recursos
     features:
       - title: Com materials and methods
         content: >
