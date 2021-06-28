@@ -50,7 +50,6 @@ sections:
           faça análises em usando SPSS, STATA, Excel, linguagens de programação,
           modelos de IA (inteligência artificial) ou como quiser
         align: left
-        image: images/csv.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
