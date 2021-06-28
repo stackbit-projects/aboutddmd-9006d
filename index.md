@@ -19,10 +19,8 @@ sections:
     title: recursos
     features:
       - title: Com materials and methods
-        content: >
-          Crie seu banco de dados e tenha embasamento metodológico para explicar
-          e referenciar seu banco de dados e a metodologia de coleta das
-          informações em seus artigos científicos
+        content: |
+          #### um teste outro teste
         align: left
         image_alt: Feature 1 placeholder image
         image_position: right
