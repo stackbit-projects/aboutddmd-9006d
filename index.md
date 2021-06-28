@@ -26,12 +26,7 @@ sections:
         align: left
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Saiba mais
-            url: >-
-              https://www.sciencedirect.com/science/article/abs/pii/S1386505619310469
-            style: secondary
-            new_window: true
+        actions: []
       - title: Dashboard em tempo real
         content: >
           Gráficos de acompanhamento dos pacientes em tempo real com scores dos
