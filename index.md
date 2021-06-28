@@ -27,16 +27,6 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
-      - title: Dashboard em tempo real
-        content: >
-          Gráficos de acompanhamento dos pacientes em tempo real com scores dos
-          questionários de acordo com o delineamento clínico do seu banco de
-          dados
-        align: left
-        image: images/graficos2.png
-        image_alt: Feature 2 placeholder image
-        image_position: left
-        actions: []
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
