@@ -6,7 +6,7 @@ sections:
     subtitle: "Escolha o que é importante armazenar em seu banco de dados.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Colete quantos questionários e variáveis precisar, para o número de pacientes e casos que necessitar."
     actions: []
     align: left
-    image: images/HomePlataforma.png
+    image: images/2.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
